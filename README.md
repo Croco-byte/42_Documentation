@@ -1,5 +1,5 @@
 # 42_Documentation
-Documentation for several 42 Projects I did
+Documentation for several 42 Projects I did.
 
 Each sub-folder corresponds to an individual 42 Project. In these folders is included :
  - One or several .odt file containing documentation on the specified project.
